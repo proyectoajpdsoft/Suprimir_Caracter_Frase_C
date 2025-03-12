@@ -1,2 +1,1 @@
-# Suprimir_Caracter_Frase_C
- Programa C que suprime un carácter de una frase con C++
+Enunciado del ejercicio resuelto de programación en C++: realizar un programa que pida una frase al usuario (cadena de caracteres), pida un carácter y devuelva la frase sin el carácter indicado. Más información en: https://proyectoa.com/programa-c-que-suprime-un-caracter-de-una-frase-con-c/
